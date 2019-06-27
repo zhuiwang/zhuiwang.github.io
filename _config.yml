@@ -6,17 +6,17 @@ email: wangzhui@foxmail.com
 description: "Developer"
 keyword: "keyword"
 url: "https://www.wangzhui.site"              # your host, for absolute URL
-#baseurl: "/blog"                            				# for example, '/blog' if your blog hosted on 'host/blog'
-#baseurlnext: "https://www.wangzhui.site/index.htm"                            				# for example, '/blog' if your blog hosted on 'host/blog'
+#baseurl: "/blog"                                           # for example, '/blog' if your blog hosted on 'host/blog'
+#baseurlnext: "https://www.wangzhui.site/index.htm"                                         # for example, '/blog' if your blog hosted on 'host/blog'
 nm: true
 header-mask:  0.5
 
 # SNS settings
 RSS: false
-weibo_username:     MrLycorious
-zhihu_username:     wang-zhui-46/activities
+zhihu_username:     www.wangzhui.site/activities
 github_username:    zhuiwang
-twitter_username:   MrLycorious
+#twitter_username:   MrLycorious
+#weibo_username:     MrLycorious
 #facebook_username:  MrLycorious
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -26,7 +26,7 @@ twitter_username:   MrLycorious
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 8
+paginate: 4
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 #paginate_path: "/blog/:num/"
@@ -61,13 +61,13 @@ netease_comment: false
 
 
 # Analytics settings
-# Baidu Analytics 
+# Baidu Analytics
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: MrLycorious.me
-
+#ga_track_id: 'UA-145677988-1'            # Format: UA-xxxxxx-xx
+#ga_domain: www.wangzhui.site
+google_analytics: UA-145677988-1
 
 
 # Sidebar settings
