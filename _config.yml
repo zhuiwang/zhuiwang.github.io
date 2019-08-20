@@ -1,9 +1,9 @@
 # Site settings
-title: MrLycorious
-SEOTitle: MrLyorious's Website
+title: "蘭亭"
+SEOTitle: "蘭亭"
 header-img: img/home-bg.jpg
 email: wangzhui@foxmail.com
-description: "Developer"
+description: "夫人之相與，俯仰一世，或取諸懷抱，悟言一室之内；或因寄所託，放浪形骸之外"
 keyword: "keyword"
 url: "https://www.wangzhui.site"              # your host, for absolute URL
 #baseurl: "/blog"                                           # for example, '/blog' if your blog hosted on 'host/blog'

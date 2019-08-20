@@ -26,14 +26,14 @@
 }
 .sidebar-container a:hover,
 .sidebar-container a:active {
-  color: #f56a6a !important;
+  color: #bfbfbe !important;
 }
 .sidebar-container .tags a {
   border-color: #00000;
 }
 .sidebar-container .tags a:hover,
 .sidebar-container .tags a:active {
-  border-color: #f56a6a;
+  border-color: #bfbfbe;
 }
 .sidebar-container .short-about img {
   width: 80%;
@@ -122,7 +122,7 @@
   background-color: #F5F5F5;
 }
 .side-catalog .catalog-body .active a {
-  color: #f56a6a!important;
+  color: #bfbfbe!important;
 }
 @media (max-width: 1200px) {
   .side-catalog {
@@ -140,7 +140,7 @@
   font-size: 14px;
   min-height: 14px;
   background-color: #323232;
-  background-color: #f56a6a;
+  background-color: #bfbfbe;
   position: fixed;
   display: flex;
   justify-content: space-between;
@@ -333,10 +333,10 @@ h6 {
 
 h2:hover,
 h2:focus {
-color: #f56a6a;}
+color: #bfbfbe;}
 h3:hover,
 h3:focus {
-color: #f56a6a;}
+color: #bfbfbe;}
 
 h4 {
   font-size: 21px;
@@ -347,7 +347,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #f56a6a;
+  color: #bfbfbe;
 }
 a img:hover,
 a img:focus {
@@ -397,7 +397,7 @@ hr.small {
   margin: 15px auto;
   border-width: 4px;
   border-color: white;
-  color:#f56a6a;
+  color:#bfbfbe;
 }
 pre,
 .table-responsive {
@@ -417,7 +417,7 @@ pre code {
 }
 .post-container a:hover,
 .post-container a:focus {
-  color: #f56a6a;
+  color: #bfbfbe;
 }
 .post-container h1,
 .post-container h2,
@@ -589,7 +589,7 @@ pre code {
   line-height: 25px;
 }
 .navbar-custom .navbar-brand:hover {
-  color: #f56a6a;
+  color: #bfbfbe;
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
@@ -616,7 +616,7 @@ pre code {
   }
   .navbar-custom .navbar-brand:hover,
   .navbar-custom .navbar-brand:focus {
-    color: #f56a6a;
+    color: #bfbfbe;
   }
   .navbar-custom .nav li a {
     color: white;
@@ -624,7 +624,7 @@ pre code {
   }
   .navbar-custom .nav li a:hover,
   .navbar-custom .nav li a:focus {
-    color: #f56a6a;
+    color: #bfbfbe;
   }
   .navbar-custom .nav li a:active {
     background: none;
@@ -648,7 +648,7 @@ pre code {
     /* when the user scrolls down, we hide the header right above the viewport */
     position: fixed;
     top: -61px;
-    background-color: #f56a6a;
+    background-color: #bfbfbe;
     border-bottom: 1px solid #f2f2f2;
     -webkit-transition: -webkit-transform 0.3s;
     -moz-transition: -moz-transform 0.3s;
@@ -659,14 +659,14 @@ pre code {
   }
   .navbar-custom.is-fixed .navbar-brand:hover,
   .navbar-custom.is-fixed .navbar-brand:focus {
-    color: #f56a6a;
+    color: #bfbfbe;
   }
   .navbar-custom.is-fixed .nav li a {
     color: #404040;
   }
   .navbar-custom.is-fixed .nav li a:hover,
   .navbar-custom.is-fixed .nav li a:focus {
-    color: #f56a6a;
+    color: #bfbfbe;
   }
   .navbar-custom.is-visible {
     /* if the user changes the scrolling direction, we show the header */
@@ -793,7 +793,7 @@ pre code {
 .post-preview > a:hover,
 .post-preview > a:focus {
   text-decoration: none;
-  color: #f56a6a;
+  color: #bfbfbe;
 }
 .post-preview > a > .post-title {
   font-size: 20px;
@@ -824,7 +824,7 @@ pre code {
 }
 .post-preview > .post-meta > a:hover,
 .post-preview > .post-meta > a:focus {
-  color: #f56a6a;
+  color: #bfbfbe;
   text-decoration: underline;
   
 }
@@ -849,7 +849,7 @@ pre code {
   color: gray;
 }
 .post-content-preview:hover {
-  color: #f56a6a;
+  color: #bfbfbe;
 }
 @media only screen and (min-width: 768px) {
   .post-content-preview {
@@ -890,7 +890,7 @@ footer .copyright a {
 }
 footer .copyright a:hover,
 footer .copyright a:focus {
-  color: #f56a6a;
+  color: #bfbfbe;
 }
 .floating-label-form-group {
   font-size: 14px;
@@ -937,7 +937,7 @@ footer .copyright a:focus {
   opacity: 1;
 }
 .floating-label-form-group-with-focus label {
-  color: #f56a6a;
+  color: #bfbfbe;
 }
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #eeeeee;
@@ -962,8 +962,8 @@ form .row:first-child .floating-label-form-group {
 }
 .btn-default:hover,
 .btn-default:focus {
-  background-color: #f56a6a;
-  border: 1px solid #f56a6a;
+  background-color: #bfbfbe;
+  border: 1px solid #bfbfbe;
   color: white;
 }
 .pager {
@@ -999,8 +999,8 @@ form .row:first-child .floating-label-form-group {
 .pager li > a:hover,
 .pager li > a:focus {
   color: white;
-  background-color: #f56a6a;
-  border: 1px solid #f56a6a;
+  background-color: #bfbfbe;
+  border: 1px solid #bfbfbe;
 }
 .pager li > a:hover > span,
 .pager li > a:focus > span {
@@ -1017,12 +1017,12 @@ form .row:first-child .floating-label-form-group {
 ::-moz-selection {
   color: white;
   text-shadow: none;
-  background: #f56a6a;
+  background: #bfbfbe;
 }
 ::selection {
   color: white;
   text-shadow: none;
-  background: #f56a6a;
+  background: #bfbfbe;
 }
 img::selection {
   color: white;
@@ -1088,7 +1088,7 @@ img::-moz-selection {
 #tag_cloud .tag:hover,
 #tag_cloud a:active,
 #tag_cloud .tag:active {
-  background-color: #f56a6a !important;
+  background-color: #bfbfbe !important;
 }
 @media only screen and (min-width: 768px) {
   #tag_cloud {
@@ -1107,7 +1107,7 @@ img::-moz-selection {
   margin-top: 0px;
 }
 .listing-seperator {
-  color: #f56a6a;
+  color: #bfbfbe;
   font-size: 21px !important;
 }
 .listing-seperator::before {
