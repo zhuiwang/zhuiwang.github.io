@@ -93,12 +93,16 @@ service-worker: true
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/",
-    # },{
-        title: "MrLycorious",
-        href: "http://www.wangzhui.site/"
-        }
+        title: "Google",
+        href: "https://www.google.com",
+    },
+    {
+        title: "Lan Ting",
+        href: "https://www.wangzhui.site",
+    },
+    {
+        title: ""
+}
 ]
 
 # Gitalk

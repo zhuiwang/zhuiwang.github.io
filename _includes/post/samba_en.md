@@ -1,12 +1,12 @@
 
 
+# Ubuntu share folder to Windows  with Samba
 
 
-# Samba共享Ubuntu文件到Windows中
 
-## 为甚？ 
+### why? 
 
-在你学习计算机的时候，你是否有这样的经历？
+在你学习计算机，你是否有这样的经历？
 
 Windows 开发环境，Linux 开发环境，到底选那个？
 
@@ -22,7 +22,7 @@ Windows 开发环境，Linux 开发环境，到底选那个？
 
 
 
-## 解决方法
+## solution
 
 使用的环境，需要有这些优点：
 
@@ -32,19 +32,35 @@ Windows 开发环境，Linux 开发环境，到底选那个？
 
 上文提到的所有开发环境我都有尝试过，由于经常要写文档(不要问我为森马不用Latex)，剪辑视频，所以就使用Windows + Ubuntu这个组合方式，Ubuntu下就是写点东西，负载不是很重(除了编译东西之外)但是Ubuntu 一般不使用图形界面，所以用虚拟机也是不会有太大差别。
 
+
+
 那么我给的解决方案就是 Windows + Ubuntu
+
 某人：Windows + Linux Server 不一样嘛
+
 你 Server 没Desktop 图形界面啊，玩尬的吗？
+
 好的我们进入正题，（好的我们进入游戏画面，@罗汉解说）
+
 怎么共享文件呢？使用Vmware 共享文件到 windows，嗯.....  可以
+
 不过效率如何我不清楚，
 
+
+
 我的选择是，直接给Ubuntu虚拟机挂一个物理磁盘分区，然后将这个分区共享，
+
 使用体验感觉，共享后在Windows下打开共享的东西就像打开一个文件夹一样。
+
+
+
 好的我们介绍下如何配置，以及都可能碰到的坑...
 
 
-# 配置
+
+
+
+# Configuration
 
 Windows避开的坑，
 
@@ -403,9 +419,4 @@ wangzhui@movestation:/data$ sudo /etc/init.d/samba restart
 
 ![mnfDyj.png](https://s2.ax1x.com/2019/08/17/mnfDyj.png)
 
-
-
-------
-- 创作不易转载请发邮件 wangzhui@foxmail.com 
-- Copyright © 蘭亭 2019 Auther by www.wangzhui.site
 
