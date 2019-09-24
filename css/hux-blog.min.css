@@ -309,7 +309,9 @@ body {
      */
 
   font-family: Times New Roman;
-  line-height: 1.7;
+  /*
+   *line-height: 1.7;
+   */
   font-size: 15px;
   color: #404040;
   overflow-x: hidden;
