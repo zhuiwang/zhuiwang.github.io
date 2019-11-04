@@ -197,10 +197,16 @@ ACMod还很年轻，并且正在积极开发中，我们正在尝试添加更多
 5. 当有力量附魔时，关于鼠标中键（默认键位）
 
 6. 1. 点按，发射一枚幻影剑，可追踪；
+
    2. 长按，召唤一圈幻影剑围绕自身旋转（剑罡护体？），可持续约十秒；在其消失之前，再次长按鼠标中键，可以将这些幻影剑向四周发射出去；
+
    3. 锁定+前进+鼠标中键，向前方发射约10枚幻影剑；
+
    4. 锁定+后退+鼠标中键，召唤出6枚幻影剑围绕锁定目标旋转，造成持续伤害。
+
    5. 超Sa https://www.bilibili.com/video/av40951445/  （需要一定杀敌数 荣誉值，打怪评级）
+
+<iframe src="//player.bilibili.com/player.html?aid=40951445&cid=71935458&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ### TwilightForest 暮色森林
 
