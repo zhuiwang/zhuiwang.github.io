@@ -1,6 +1,6 @@
 
 
-#	Basic Shell Script
+#	Part2 Basic Shell Script
 
 
 
@@ -31,6 +31,8 @@ else
 fi
 ```
 
+
+
 ## test condition
 
 `if test condition`
@@ -54,7 +56,7 @@ fi
 
 sort处理大写字母方法和test命令相反，**test命令中大写字母被认为小于小写**
 
-## 文件比较
+### 文件比较
 
 `-d`exist and direction?
 
@@ -197,3 +199,6 @@ continue 命令可以提前中止某次循环中的命令，但并不会完全�
 done > output.txt
 ```
 
+
+
+## 命令行参数
