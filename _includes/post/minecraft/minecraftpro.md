@@ -1,6 +1,8 @@
 
 # Minecraft Pro Game Guide
 
+本服务器为公益服务器，有相关建议或者参与建造的，欢迎加入QQ群 ： **422185498**  共同建造 Minecraft
+
 
 
 # Part 1  Minecraft Pro  mod Introduction
@@ -220,6 +222,11 @@ ACMod还很年轻，并且正在积极开发中，我们正在尝试添加更多
    5. 超Sa https://www.bilibili.com/video/av40951445/  （需要一定杀敌数 荣誉值，打怪评级）
 
 <iframe src="//player.bilibili.com/player.html?aid=40951445&cid=71935458&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+
+# Part 2 下载 Minecraft Pro 与安装
+
 ## 1. 如何安装游戏
 
 加入QQ群，MineCraft PRO 422185498，下载 Minecraft1.12.2_2019_11_01.rar, jdk-8u172-windows-x64.exe,
@@ -299,6 +306,8 @@ ACMod还很年轻，并且正在积极开发中，我们正在尝试添加更多
 
 第一次进入游戏的位置为`spawn` 附近的方块是不能破坏或者使用的，使用`/spawn`来回到出生点，可以使用`/sethome`设定你的`家`使用`/home`来快速传送回家，
 
+通用机械里面有快速传送的设备，可以使用
+
 出生点：
 周围怪物比较多，而且比较厉害
 
@@ -330,24 +339,14 @@ ACMod还很年轻，并且正在积极开发中，我们正在尝试添加更多
 
 
 
+# Part 3 其他声明
+
+本服务器为公益服务器，有相关建议或者参与建造的，欢迎加入QQ群 ： **422185498**  共同建造 Minecraft
+
+服务器处于开始阶段，所以有很多不平衡的地方，欢迎大家发现与提交意见与建议
 
 
 
+感谢本服务器所有模组的作者，没有这些mod就没有这个服务器。
 
-
-## 5.模组介绍
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+感谢B站 Up 叶子解说，酒石酸君，小东的解说视频，教学视频。
