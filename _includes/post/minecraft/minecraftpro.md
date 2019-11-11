@@ -239,8 +239,6 @@ ACMod还很年轻，并且正在积极开发中，我们正在尝试添加更多
 
 
 
-
-
 安装jdk-8u172-windows-x64.exe
 
 [![KvbDz9.png](https://s2.ax1x.com/2019/11/04/KvbDz9.png)](https://imgchr.com/i/KvbDz9)
