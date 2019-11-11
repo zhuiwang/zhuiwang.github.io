@@ -1,109 +1,121 @@
 
-# Minecfraft Pro Game Guide
+# Minecraft Pro Game Guide
 
 
 
-## 1. 如何安装游戏
+# Part 1  Minecraft Pro  mod Introduction
 
-加入QQ群，MineCraft PRO 422185498，下载 Minecraft1.12.2_2019_11_01.rar, jdk-8u172-windows-x64.exe,
+### Minecraft 原版物品
 
-解压Minecraft1.12.2_2019_11_01.rar
+第一部分，Minecraft Pro 模组介绍，与游戏简介，如果您出生点在顶层，麻烦下楼哦~
 
-安装jdk-8u172-windows-x64.exe
+请爱护主城，请不要随便破坏，主城附近有几个白色房屋，如果没有人的话，你可以住进去当作 home
 
-[![KvbDz9.png](https://s2.ax1x.com/2019/11/04/KvbDz9.png)](https://imgchr.com/i/KvbDz9)
+[![MkUXCt.png](https://s2.ax1x.com/2019/11/07/MkUXCt.png)](https://imgchr.com/i/MkUXCt)
 
+欢迎来到 Minecraft Pro，获取你的初始装备，一把锋利的铁剑一阶，铁防护套装
 
+[![MkUh36.png](https://s2.ax1x.com/2019/11/07/MkUh36.png)](https://imgchr.com/i/MkUh36)
 
-安装完毕jdk-8u172-windows-x64.exe点击开启启动器
+### 通用机械 & 工业2模组
 
-[![KvbwiF.png](https://s2.ax1x.com/2019/11/04/KvbwiF.png)](https://imgchr.com/i/KvbwiF)
+小东的模组介绍
 
-点击本体设置，设定java路径，一般点开后会自动填上。
+ https://www.bilibili.com/video/av51920831 
 
-[![KvbBRJ.png](https://s2.ax1x.com/2019/11/04/KvbBRJ.png)](https://imgchr.com/i/KvbBRJ)
+[![MkUouD.png](https://s2.ax1x.com/2019/11/07/MkUouD.png)](https://imgchr.com/i/MkUouD)
 
-设定完毕如图所示
+数字挖矿机：
 
-[![Kvb0G4.png](https://s2.ax1x.com/2019/11/04/Kvb0G4.png)](https://imgchr.com/i/Kvb0G4)
-
-设定游戏名称，修改为你的游戏ID
-
-[![KvbaIU.png](https://s2.ax1x.com/2019/11/04/KvbaIU.png)](https://imgchr.com/i/KvbaIU)
-
-点击多人游戏
-
-[![KvbsMR.png](https://s2.ax1x.com/2019/11/04/KvbsMR.png)](https://imgchr.com/i/KvbsMR)
-
-点击添加服务器
-
-[![Kvbys1.png](https://s2.ax1x.com/2019/11/04/Kvbys1.png)](https://imgchr.com/i/Kvbys1)
-
-服务器地址填写上152.136.103.126 
-
-[![Kvb6qx.png](https://s2.ax1x.com/2019/11/04/Kvb6qx.png)](https://imgchr.com/i/Kvb6qx)
-
-点击加入服务器
-
-[![KvbgZ6.png](https://s2.ax1x.com/2019/11/04/KvbgZ6.png)](https://imgchr.com/i/KvbgZ6)
-
-在家门口有游戏指南概述，点击即可领取，欢迎你的到来~
+ https://www.bilibili.com/video/av45878572/?spm_id_from=333.788.videocard.4 
 
 
 
 
 
-一些游戏截图：
+### Project E 等价交换模组
 
-[![KvbRIO.png](https://s2.ax1x.com/2019/11/04/KvbRIO.png)](https://imgchr.com/i/KvbRIO)
+鉴于平衡，对该模组进行了修改，
 
+- 常用矿物，金铜铁锡等，建议使用通用机械的**数字挖矿机器**，进行，不可以通过等价交换直接获取，除了钻石煤炭红石
+- 添加通用机械高纯度乙烯球的Emc，玩家可以通过树苗变成生物燃料进而生产该东西，Emc值等同于钻石，通过该手段大量获得Emc
 
-[![Kvb2dK.png](https://s2.ax1x.com/2019/11/04/Kvb2dK.png)](https://imgchr.com/i/Kvb2dK)
-
-
-
-## 2.游戏更新说明
-
-更新一版是添加mod，我会上传一个 mods.rar 文件压缩包，替换原有的 mods文件夹即可,路径如下
-
-`\Minecraft1.12.2\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2768\mods`
+[![MkU5jO.png](https://s2.ax1x.com/2019/11/07/MkU5jO.png)](https://imgchr.com/i/MkU5jO)
 
 
 
-## 3. 光影与材质
+### Galacticraft 星系模组 & 更多的星系
 
-你可以在游戏界面的资源包中查看支持的材质，建议使用Default 3d材质，光影可以选择 SEUE 11.0
+添加了信息拓展模组，去外太空除了氧气装备，还需要压力防护装备，另外你的胸甲一定要可以喷气体的，要不然在空间站是无法移动的，你只能自由的飘~
 
-或者你自己添加啊其他光影，注意开启光影需要等待一些时间，还有需要电脑配置支持
+额外需要探索的星系有很多，
+
+叶子解说，火箭发射
+
+ https://www.bilibili.com/video/av49088538/?spm_id_from=333.788.videocard.9 
+
+叶子解说，但是她的模组只有星系，没有扩展，所以是没有压强的，外太空不需要压强防护
+
+ https://www.bilibili.com/video/av49088538/?spm_id_from=333.788.videocard.1 
+
+[![MkU2NR.png](https://s2.ax1x.com/2019/11/07/MkU2NR.png)](https://imgchr.com/i/MkU2NR)
+[![MpXocT.png](https://s2.ax1x.com/2019/11/05/MpXocT.png)](https://imgchr.com/i/MpXocT)
+[![MpXHuF.png](https://s2.ax1x.com/2019/11/05/MpXHuF.png)](https://imgchr.com/i/MpXHuF)
+
+### TwilightForest 暮色森林
+
+大家都玩过攻略很多我就不介绍了
+
+无聊可以看看，叶子解说，单人暮色系列
+
+ https://www.bilibili.com/video/av40951445/?spm_id_from=333.788.videocard.13 
+
+[![MkUL4I.png](https://s2.ax1x.com/2019/11/07/MkUL4I.png)](https://imgchr.com/i/MkUL4I)
+冰雪女王的极光城堡
+![M9Ptnx.png](https://s2.ax1x.com/2019/11/05/M9Ptnx.png)
 
 
 
-## 4.你需要知道的东西
-
-### 快速传送
-
-第一次进入游戏的位置为`spawn` 附近的方块是不能破坏或者使用的，使用`/spawn`来回到出生点，可以使用`/sethome`设定你的`家`使用`/home`来快速传送回家，
-
-### 查看合成列表
-
-鼠标悬浮与物品上按`T`可以查看物品合成方式；鼠标左键点击合成菜单显示该物品如何合成，鼠标右键点击合成菜单中物品显示该物品可以合成什么（拔刀剑的有bug无法正常显示）。
-
-### 快速挖矿
-
-挖矿砍树时候按住`~`可以连锁挖矿
-
-### 可探索星系查看
-
-按`M`按键可以快速查看可以探索的星系，但是星系需要建造火箭才可以
-
-### 查看大地图
-
-按`J`按键可以查看大地图（已经探测的地点）
 
 
-## 5.模组介绍
 
-### Academy Craft 学园都市超能力
+### MrCaryfish 载具模组
+
+有很多好玩的车子可以种地飙车等等。
+
+[![MkUf9x.png](https://s2.ax1x.com/2019/11/07/MkUf9x.png)](https://imgchr.com/i/MkUf9x)
+
+
+
+### MrCaryfish's Device MrCaryfish 的设备
+可以制作笔记本电脑，并且可以打开使用
+
+### GrimoireOfGaia3 盖亚魔典3
+
+添加了一些有趣的生物
+
+### Pam's+HarvestCraft 潘马斯的农场
+
+大型热门农场模组
+
+### Touhoulittlemaid 车万女仆，2019-11月最新发布模组
+
+**详细介绍可以b站搜索车万女仆，酒石酸up有详细介绍**
+
+ https://www.bilibili.com/video/av74029669?from=search&seid=17938812441820450818 
+
+[![MkUbEd.png](https://s2.ax1x.com/2019/11/07/MkUbEd.png)](https://imgchr.com/i/MkUbEd)
+[![MpXhhq.png](https://s2.ax1x.com/2019/11/05/MpXhhq.png)](https://imgchr.com/i/MpXhhq)
+[![MpX590.png](https://s2.ax1x.com/2019/11/05/MpX590.png)](https://imgchr.com/i/MpX590)
+[![MpXI3V.png](https://s2.ax1x.com/2019/11/05/MpXI3V.png)](https://imgchr.com/i/MpXI3V)
+[![MpXbB4.png](https://s2.ax1x.com/2019/11/05/MpXbB4.png)](https://imgchr.com/i/MpXbB4)
+[![MpXOE9.png](https://s2.ax1x.com/2019/11/05/MpXOE9.png)](https://imgchr.com/i/MpXOE9)
+
+### Academy Craft 超能力模组
+
+安装后使用 alt按键打开超能力界面，alt按键关闭，使用超能力开发机器学习超能力，当身上携带，诱导因子时候，必定学习该类型超能力，另外超能力伤害优化有提高原来3倍，来体现该mod的超能力伤害。
+
+[![MkU4gK.png](https://s2.ax1x.com/2019/11/07/MkU4gK.png)](https://imgchr.com/i/MkU4gK)
 
 [![图标](http://ac.li-dev.cn/wp-content/uploads/2015/09/icon.png)](http://ac.li-dev.cn/wp-content/uploads/2015/09/icon.png)
 
@@ -132,6 +144,7 @@ ACMod还很年轻，并且正在积极开发中，我们正在尝试添加更多
 
 
 ### SlashBlade 拔刀剑 & 最后的太刀匠人
+[![MkU7HH.png](https://s2.ax1x.com/2019/11/07/MkU7HH.png)](https://imgchr.com/i/MkU7HH)
 
 #### 论拔刀剑杀敌时耐久度回复的机制
 
@@ -207,34 +220,134 @@ ACMod还很年轻，并且正在积极开发中，我们正在尝试添加更多
    5. 超Sa https://www.bilibili.com/video/av40951445/  （需要一定杀敌数 荣誉值，打怪评级）
 
 <iframe src="//player.bilibili.com/player.html?aid=40951445&cid=71935458&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
-### TwilightForest 暮色森林
+## 1. 如何安装游戏
 
-冰雪女王的极光城堡
+加入QQ群，MineCraft PRO 422185498，下载 Minecraft1.12.2_2019_11_01.rar, jdk-8u172-windows-x64.exe,
 
-![M9Ptnx.png](https://s2.ax1x.com/2019/11/05/M9Ptnx.png)
-![M9PNB6.png](https://s2.ax1x.com/2019/11/05/M9PNB6.png)
-![M9PUHK.png](https://s2.ax1x.com/2019/11/05/M9PUHK.png)
+解压Minecraft1.12.2_2019_11_05.rar
+
+安装jdk-8u172-windows-x64.exe
+
+[![KvbDz9.png](https://s2.ax1x.com/2019/11/04/KvbDz9.png)](https://imgchr.com/i/KvbDz9)
 
 
-### Galacticraft 星系模组 & 更多的星系
+
+安装完毕jdk-8u172-windows-x64.exe点击开启启动器
+
+[![KvbwiF.png](https://s2.ax1x.com/2019/11/04/KvbwiF.png)](https://imgchr.com/i/KvbwiF)
+
+点击本体设置，设定java路径，一般点开后会自动填上。
+
+[![KvbBRJ.png](https://s2.ax1x.com/2019/11/04/KvbBRJ.png)](https://imgchr.com/i/KvbBRJ)
+
+设定完毕如图所示
+
+[![Kvb0G4.png](https://s2.ax1x.com/2019/11/04/Kvb0G4.png)](https://imgchr.com/i/Kvb0G4)
+
+设定游戏名称，修改为你的游戏ID
+
+[![KvbaIU.png](https://s2.ax1x.com/2019/11/04/KvbaIU.png)](https://imgchr.com/i/KvbaIU)
+
+点击多人游戏
+
+[![KvbsMR.png](https://s2.ax1x.com/2019/11/04/KvbsMR.png)](https://imgchr.com/i/KvbsMR)
+
+点击添加服务器
+
+[![Kvbys1.png](https://s2.ax1x.com/2019/11/04/Kvbys1.png)](https://imgchr.com/i/Kvbys1)
+
+服务器地址填写上152.136.103.126 
+
+[![Kvb6qx.png](https://s2.ax1x.com/2019/11/04/Kvb6qx.png)](https://imgchr.com/i/Kvb6qx)
+
+点击加入服务器
+
+[![KvbgZ6.png](https://s2.ax1x.com/2019/11/04/KvbgZ6.png)](https://imgchr.com/i/KvbgZ6)
+
+在家门口有游戏指南概述，点击即可领取，欢迎你的到来~
+
+
+
+
+
+一些游戏截图：
 [![MpXocT.png](https://s2.ax1x.com/2019/11/05/MpXocT.png)](https://imgchr.com/i/MpXocT)
-[![MpXHuF.png](https://s2.ax1x.com/2019/11/05/MpXHuF.png)](https://imgchr.com/i/MpXHuF)
 
-### Industrialcraft 工业2 + 通用机械
+[![Kvb2dK.png](https://s2.ax1x.com/2019/11/04/Kvb2dK.png)](https://imgchr.com/i/Kvb2dK)
 
-### GrimoireOfGaia3 盖亚魔典3
 
-### ProjectE 等价交换
 
-### MyCrayfish 载具模组
+## 2.游戏更新说明
 
-### Pam's+HarvestCraft 潘马斯的农场
+更新一版是添加mod，我会上传一个 mods.rar 文件压缩包，替换原有的 mods文件夹即可,路径如下
 
-### Touhoulittlemaid 车万女仆
+`\Minecraft1.12.2\.minecraft\versions\1.12.2-forge1.12.2-14.23.5.2768\mods`
 
-[![MpXhhq.png](https://s2.ax1x.com/2019/11/05/MpXhhq.png)](https://imgchr.com/i/MpXhhq)
-[![MpX590.png](https://s2.ax1x.com/2019/11/05/MpX590.png)](https://imgchr.com/i/MpX590)
-[![MpXI3V.png](https://s2.ax1x.com/2019/11/05/MpXI3V.png)](https://imgchr.com/i/MpXI3V)
-[![MpXbB4.png](https://s2.ax1x.com/2019/11/05/MpXbB4.png)](https://imgchr.com/i/MpXbB4)
-[![MpXOE9.png](https://s2.ax1x.com/2019/11/05/MpXOE9.png)](https://imgchr.com/i/MpXOE9)
+
+
+## 3. 光影与材质
+
+你可以在游戏界面的资源包中查看支持的材质，建议使用Default 3d材质，光影可以选择 SEUE 11.0
+
+或者你自己添加啊其他光影，注意开启光影需要等待一些时间，还有需要电脑配置支持
+
+
+
+## 4.你需要知道的东西
+
+### 快速传送
+
+第一次进入游戏的位置为`spawn` 附近的方块是不能破坏或者使用的，使用`/spawn`来回到出生点，可以使用`/sethome`设定你的`家`使用`/home`来快速传送回家，
+
+出生点：
+周围怪物比较多，而且比较厉害
+
+![Mix9hQ.png](https://s2.ax1x.com/2019/11/07/Mix9hQ.png)
+
+
+白色的房屋为建造好的home，需要你自己去修复一下：
+
+[![Mivayq.png](https://s2.ax1x.com/2019/11/07/Mivayq.png)](https://imgchr.com/i/Mivayq)
+[![MivUln.png](https://s2.ax1x.com/2019/11/07/MivUln.png)](https://imgchr.com/i/MivUln)
+
+
+
+### 查看合成列表
+
+鼠标悬浮与物品上按`T`可以查看物品合成方式；鼠标左键点击合成菜单显示该物品如何合成，鼠标右键点击合成菜单中物品显示该物品可以合成什么（拔刀剑的有bug无法正常显示）。
+
+### 快速挖矿
+
+挖矿砍树时候按住`~`可以连锁挖矿
+
+### 可探索星系查看
+
+按`M`按键可以快速查看可以探索的星系，但是星系需要建造火箭才可以
+
+### 查看大地图
+
+按`J`按键可以查看大地图（已经探测的地点）
+
+
+
+
+
+
+
+
+## 5.模组介绍
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
