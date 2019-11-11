@@ -233,6 +233,14 @@ ACMod还很年轻，并且正在积极开发中，我们正在尝试添加更多
 
 解压Minecraft1.12.2_2019_11_05.rar
 
+
+
+**最新版本为Minecraft1.12.2_2019_11_09.rar**，请下载**Minecraft1.12.2_2019_11_05.rar**，附图只是说明而已与实际稍有偏差
+
+
+
+
+
 安装jdk-8u172-windows-x64.exe
 
 [![KvbDz9.png](https://s2.ax1x.com/2019/11/04/KvbDz9.png)](https://imgchr.com/i/KvbDz9)
