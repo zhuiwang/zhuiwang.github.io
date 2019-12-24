@@ -7,6 +7,10 @@ Mobile : +86-159-7211-9800
 
 https://www.wangzhui.site
 
+QQ:740980832
+
+WechatID:Mashiros
+
 ## Education
 ### Northwestern Polytechnical University
 Bachelor degree in Electromagnetic Field and Wireless Technology ; GPA: 3.5
@@ -89,6 +93,6 @@ Software Engineer
 
 • Web: Personal website
 
-## Require
+
 Thanks for your reading.
 

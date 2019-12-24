@@ -16,6 +16,7 @@ tags:
 <!-- Chinese Version -->
 <div class="zh post-container">
     {% capture about_zh %}
+        {% include post/shellscript/part1linuxcommand.md %}
         {% include post/shellscript/part2basicscript.md %}
     {% endcapture %}
     {{ about_zh | markdownify }}
