@@ -4,8 +4,59 @@
 本服务器为公益服务器，有相关建议或者参与建造的，欢迎加入QQ群 ： **422185498**  共同建造 Minecraft
 
 
+# Part 1 下载 Minecraft Pro 与安装
 
-# Part 1  Minecraft Pro  mod Introduction
+## 1. 如何安装游戏
+
+加入QQ群，MineCraft PRO 422185498，下载 Minecraft1.12.2_2020_10_01.rar, jdk-8u172-windows-x64.exe,
+
+解压Minecraft1.12.2_2020_10_01.rar
+
+
+
+**最新版本为Minecraft1.12.2_2020_10_01.rar**，请下载**Minecraft1.12.2_2020_10_01.rar**，附图只是说明而已与实际稍有偏差
+
+
+
+安装jdk-8u172-windows-x64.exe
+
+[![KvbDz9.png](https://s2.ax1x.com/2019/11/04/KvbDz9.png)](https://imgchr.com/i/KvbDz9)
+
+
+
+安装完毕jdk-8u172-windows-x64.exe点击开启启动器
+
+[![KvbwiF.png](https://s2.ax1x.com/2019/11/04/KvbwiF.png)](https://imgchr.com/i/KvbwiF)
+
+点击本体设置，设定java路径，一般点开后会自动填上。
+
+[![KvbBRJ.png](https://s2.ax1x.com/2019/11/04/KvbBRJ.png)](https://imgchr.com/i/KvbBRJ)
+
+设定完毕如图所示
+
+[![Kvb0G4.png](https://s2.ax1x.com/2019/11/04/Kvb0G4.png)](https://imgchr.com/i/Kvb0G4)
+
+设定游戏名称，修改为你的游戏ID
+
+[![KvbaIU.png](https://s2.ax1x.com/2019/11/04/KvbaIU.png)](https://imgchr.com/i/KvbaIU)
+
+点击多人游戏
+
+[![KvbsMR.png](https://s2.ax1x.com/2019/11/04/KvbsMR.png)](https://imgchr.com/i/KvbsMR)
+
+点击添加服务器
+
+[![Kvbys1.png](https://s2.ax1x.com/2019/11/04/Kvbys1.png)](https://imgchr.com/i/Kvbys1)
+
+服务器地址填写上152.136.103.126 
+
+[![Kvb6qx.png](https://s2.ax1x.com/2019/11/04/Kvb6qx.png)](https://imgchr.com/i/Kvb6qx)
+
+点击加入服务器
+
+[![KvbgZ6.png](https://s2.ax1x.com/2019/11/04/KvbgZ6.png)](
+
+# Part 2  Minecraft Pro  mod Introduction
 
 ### Minecraft 原版物品
 
@@ -179,7 +230,7 @@ ACMod还很年轻，并且正在积极开发中，我们正在尝试添加更多
 第一刀右键:出鞘斩，范围攻击，不会致死
     第二刀左键：上切，强制使敌人浮空
     第二刀右键，回鞘，同样不会致死
-     第三刀右键，拔刀杀。此时有击退II以上的效果
+    第三刀右键，拔刀杀。此时有击退II以上的效果
 
 第三手（空中）
 
@@ -221,63 +272,12 @@ ACMod还很年轻，并且正在积极开发中，我们正在尝试添加更多
 
    5. 超Sa https://www.bilibili.com/video/av40951445/  （需要一定杀敌数 荣誉值，打怪评级）
 
-<iframe src="//player.bilibili.com/player.html?aid=40951445&cid=71935458&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<div class="selfadapting-video-bilibili">
+<iframe src="//player.bilibili.com/player.html?aid=40951445&cid=71935458&page=1&&as_wide=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
+https://imgchr.com/i/KvbgZ6)
+</div>
 
-
-# Part 2 下载 Minecraft Pro 与安装
-
-## 1. 如何安装游戏
-
-加入QQ群，MineCraft PRO 422185498，下载 Minecraft1.12.2_2019_11_01.rar, jdk-8u172-windows-x64.exe,
-
-解压Minecraft1.12.2_2019_11_05.rar
-
-
-
-**最新版本为Minecraft1.12.2_2019_11_09.rar**，请下载**Minecraft1.12.2_2019_11_05.rar**，附图只是说明而已与实际稍有偏差
-
-
-
-安装jdk-8u172-windows-x64.exe
-
-[![KvbDz9.png](https://s2.ax1x.com/2019/11/04/KvbDz9.png)](https://imgchr.com/i/KvbDz9)
-
-
-
-安装完毕jdk-8u172-windows-x64.exe点击开启启动器
-
-[![KvbwiF.png](https://s2.ax1x.com/2019/11/04/KvbwiF.png)](https://imgchr.com/i/KvbwiF)
-
-点击本体设置，设定java路径，一般点开后会自动填上。
-
-[![KvbBRJ.png](https://s2.ax1x.com/2019/11/04/KvbBRJ.png)](https://imgchr.com/i/KvbBRJ)
-
-设定完毕如图所示
-
-[![Kvb0G4.png](https://s2.ax1x.com/2019/11/04/Kvb0G4.png)](https://imgchr.com/i/Kvb0G4)
-
-设定游戏名称，修改为你的游戏ID
-
-[![KvbaIU.png](https://s2.ax1x.com/2019/11/04/KvbaIU.png)](https://imgchr.com/i/KvbaIU)
-
-点击多人游戏
-
-[![KvbsMR.png](https://s2.ax1x.com/2019/11/04/KvbsMR.png)](https://imgchr.com/i/KvbsMR)
-
-点击添加服务器
-
-[![Kvbys1.png](https://s2.ax1x.com/2019/11/04/Kvbys1.png)](https://imgchr.com/i/Kvbys1)
-
-服务器地址填写上152.136.103.126 
-
-[![Kvb6qx.png](https://s2.ax1x.com/2019/11/04/Kvb6qx.png)](https://imgchr.com/i/Kvb6qx)
-
-点击加入服务器
-
-[![KvbgZ6.png](https://s2.ax1x.com/2019/11/04/KvbgZ6.png)](https://imgchr.com/i/KvbgZ6)
-
-在家门口有游戏指南概述，点击即可领取，欢迎你的到来~
 
 
 
