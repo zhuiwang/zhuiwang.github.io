@@ -1,5 +1,3 @@
-hello welcome.
-thank you.
-this is the breaf introduce to my website
 
-forked by Splendor
+欢迎访问：
+www.wangzhui.site
