@@ -1,9 +1,9 @@
 # Site settings
-title: "蘭亭"
-SEOTitle: "蘭亭"
+title: "我的白日梦"
+SEOTitle: "我的白日梦"
 header-img: img/home-bg.jpg
 email: wangzhui@foxmail.com
-description: "夫人之相與，俯仰一世，或取諸懷抱，悟言一室之内；或因寄所託，放浪形骸之外"
+description: "我的百日梦"
 keyword: "keyword"
 url: "https://www.wangzhui.site"              # your host, for absolute URL
 #baseurl: "/blog"                                           # for example, '/blog' if your blog hosted on 'host/blog'
