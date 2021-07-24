@@ -114,7 +114,7 @@ gitalk:
   owner: zhuiwang    #github用户名
   admin: zhuiwang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  language：zh-CN
+  language: zh-CN
   proxy: https://netnr-proxy.cloudno.de/https://github.com/login/oauth/access_token
 
 
