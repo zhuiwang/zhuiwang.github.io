@@ -1,7 +1,7 @@
 
 # Binary tree
 
-# 
+# PreorderTraversal inorderTraversal PostorderTraversal
 ```python
 class Node:
 
@@ -44,7 +44,16 @@ class Node:
             res = res + self.PreorderTraversal(root.left)
             res = res + self.PreorderTraversal(root.right)
         return res
-
+        
+# 中序遍历
+# Left -> Root -> Right
+    def inorderTraversal(self, root):
+        res = []
+        if root:
+            res = self.inorderTraversal(root.left)
+            res.append(root.data)
+            res = res + self.inorderTraversal(root.right)
+        return res
 
 # 后序遍历
 # Left ->Right -> Root
@@ -56,15 +65,7 @@ class Node:
             res.append(root.data)
         return res
 
-# 中序遍历
-# Left -> Root -> Right
-    def inorderTraversal(self, root):
-        res = []
-        if root:
-            res = self.inorderTraversal(root.left)
-            res.append(root.data)
-            res = res + self.inorderTraversal(root.right)
-        return res
+
 
 root = Node(27)
 root.insert(14)
