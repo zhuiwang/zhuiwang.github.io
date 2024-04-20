@@ -1,15 +1,15 @@
 ---
-layout:      page
-title:       "New Year 2022"
+layout: page
+title: "New Year 2022"
 description: "Xi'an"
-header-img:  "img/home-bg.jpg"
+header-img: "img/home-bg.jpg"
 multilingual: ture
 ---
 
 <!-- Language Selector -->
-<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected>  Trval </option>
-    <option value="1">  Viate </option>
+<select class="sel-lang" onchange="onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> Trval </option>
+    <option value="1"> Viate </option>
 </select>
 
 <!-- Chinese Version -->
@@ -23,6 +23,3 @@ multilingual: ture
     {% capture about_en %}{% include post/year/2022_EN.md %}{% endcapture %}
     {{ about_en | markdownify }}
 </div>
-
-
-

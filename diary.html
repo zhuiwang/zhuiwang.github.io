@@ -1,15 +1,15 @@
 ---
-layout:      page
-title:       "小记"
+layout: page
+title: "小记"
 description: ""
-header-img:  "img/home-bg.jpg"
+header-img: "img/home-bg.jpg"
 multilingual: ture
 ---
 
 <!-- Language Selector -->
-<select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
-    <option value="0" selected>  Chinese </option>
-    <option value="1">  English </option>
+<select class="sel-lang" onchange="onLanChange(this.options[this.options.selectedIndex].value)">
+    <option value="0" selected> Chinese </option>
+    <option value="1"> English </option>
 </select>
 
 <!-- Chinese Version -->
@@ -22,6 +22,3 @@ multilingual: ture
 <div class="en post-container">
     {{ about_en | markdownify }}
 </div>
-
-
-

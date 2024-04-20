@@ -1,9 +1,12 @@
-<<<<<<< HEAD
-hello welcome.
-thank you.
-this is the breaf introduce to my website
-=======
+install run
+```shell
+sudo apt-get install jekyll
+sudo apt-get install ruby-dev
+bundle add webrick
+bundle install
+```
 
-欢迎访问：
-www.wangzhui.site
->>>>>>> 3a7b68a92c5dbeca3978eab1b6c159c886280f12
+
+bundle exec jekyll serve --host=0.0.0.0 --port 4000
+bundle exec jekyll serve --host=0.0.0.0 --port 4000
+
