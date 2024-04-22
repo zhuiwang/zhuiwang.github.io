@@ -1,15 +1,15 @@
 # Site settings
-title: "我的白日梦"
-SEOTitle: "我的白日梦"
+title: "凝弋"
+SEOTitle: "flower's dance"
 header-img: img/home-bg.jpg
 email: wangzhui@foxmail.com
-description: "我的百日梦"
+description: "hello"
 keyword: "keyword"
 url: "https://www.wangzhui.site"              # your host, for absolute URL
 #baseurl: "/blog"                                           # for example, '/blog' if your blog hosted on 'host/blog'
 #baseurlnext: "https://www.wangzhui.site/index.htm"                                         # for example, '/blog' if your blog hosted on 'host/blog'
 nm: true
-header-mask:  0.5
+header-mask:  0.6
 
 # SNS settings
 RSS: false
