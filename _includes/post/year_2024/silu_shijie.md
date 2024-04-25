@@ -1,6 +1,6 @@
 
 摄影记录
-[![_Y5A3625.JPG](https://vip.helloimg.com/i/2024/04/22/662677a360f84.jpg)](https://vip.helloimg.com/i/2024/04/22/662677a360f84.jpg)
+![_Y5A3625.JPG](https://vip.helloimg.com/i/2024/04/22/662677a360f84.jpg)
 ![1Y5A3418.JPG](https://vip.helloimg.com/i/2024/04/22/662675723d9ba.jpg)
 ![_Y5A3380.JPG](https://vip.helloimg.com/i/2024/04/22/662675742fb7c.jpg)
 ![_Y5A3237.JPG](https://vip.helloimg.com/i/2024/04/22/66267575f1f7d.jpg)
